@@ -9,7 +9,7 @@ assignees: ''
 ---
 
 **Is dit probleem al eerder gemeld bij ons? (gebruik de zoekfunctie):**
-[  ] Ik verklaar dat ik de zoekfunctie heb gebruikt en dit probleem niet eerder gemeld is.
+[ ] Ik verklaar dat ik de zoekfunctie heb gebruikt en dit probleem niet eerder gemeld is.
 
 **Gegevens:**
 1. Steamnaam: ...
@@ -32,8 +32,8 @@ Geef een beschrijving van hoe deze situatie volgens jou zou moeten verlopen
 Als je screenshots of een clip hebt van de situatie kun je deze hier uploaden
 
 **FiveM versie:**
-[  ] Laatste stabiele versie
-[  ] Canary
+[ ] Laatste stabiele versie
+[ ] Canary
 
 **Overige opmerkingen**
 Vul hier eventueel opmerkingen in die je niet bij de vragen hierboven kon invullen.
